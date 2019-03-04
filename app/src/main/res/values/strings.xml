@@ -442,4 +442,7 @@
     <string name="wrong_token_title">Different token requested</string>
     <string name="transfer_request">Transfer request</string>
     <string name="token_transfer_request">Token transfer request</string>
+    <string name="wallet_name">Wallet Name</string>
+    <string name="delete_wallet">Delete Wallet</string>
+    <string name="backup_keystore">Backup Keystore</string>
 </resources>
